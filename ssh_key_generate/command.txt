@@ -14,3 +14,4 @@ To copy key on clipboard use command -> clip < ~.ssh/id_rsa.pub
 
 now paste to github
 
+
