@@ -14,4 +14,6 @@ Automatic switch to branch after create that branch command -> git checkout -b <
 
 To delete any branch command -> git branch -D <branch-name>
 
+To clean untracted file command -> git clean -f -n  and permanent delete use git clean -f
+
 add new
