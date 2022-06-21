@@ -1,0 +1,15 @@
+command -> ssh-keygan -t rsa -b 4096 -c "rejag402@gmail.com"
+then enter -> git_keys
+then enter password : ...........
+after enter password again : .........
+
+Then two files will generate inside folder
+
+After that run command -> eval $(ssh-agent -s)
+Next run command -> ssh-add ~/.ssh/id_rsa
+
+
+Now its time to copy key and paste to github
+To copy key on clipboard use command -> clip < ~.ssh/id_rsa.pub
+
+now paste to github
