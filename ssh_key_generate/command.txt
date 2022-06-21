@@ -13,3 +13,5 @@ Now its time to copy key and paste to github
 To copy key on clipboard use command -> clip < ~.ssh/id_rsa.pub
 
 now paste to github
+
+change on remote repository
