@@ -3,12 +3,12 @@
     <a class="nav-link active" aria-current="page" href="#">Active</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">About</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled">Disabled</a>
+    <a class="nav-link disabled">Contact</a>
   </li>
 </ul>
