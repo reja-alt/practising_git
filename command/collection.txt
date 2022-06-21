@@ -12,4 +12,4 @@ Inorder to show git diff after staging command -> git diff --staged
 
 Automatic switch to branch after create that branch command -> git checkout -b <branch-name>
 
-check for merge
+To delete any branch command -> git branch -D <branch-name>
