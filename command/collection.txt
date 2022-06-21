@@ -3,3 +3,7 @@ Rolling back previous stage command-> git checkout <commit no>
 To show specific commit diff command -> git show <commit no>
 
 To show git log in one commit command -> git log --oneline
+
+Must show git diff before staging command -> git diff
+
+Inorder to show git diff after staging command -> git diff --staged
