@@ -1,0 +1,3 @@
+Rolling back previous stage command-> git checkout <commit no>
+
+To show specific commit diff command -> git show <commit no>

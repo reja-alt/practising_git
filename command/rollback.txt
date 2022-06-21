@@ -1,1 +1,0 @@
-Rolling back previous stage command-> git checkout <commit no>
