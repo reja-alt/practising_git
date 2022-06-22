@@ -8,3 +8,6 @@ temp/
 
 # ignore ALL files containig .ear
 *.ear
+
+# ignore ALL files containig .jar
+*.jar
